@@ -1,0 +1,16 @@
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\arraycolection.exe
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\arraycolection.deps.json
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\arraycolection.runtimeconfig.json
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\arraycolection.runtimeconfig.dev.json
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\arraycolection.dll
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\ref\arraycolection.dll
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\bin\Debug\net5.0\arraycolection.pdb
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.csproj.AssemblyReference.cache
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.AssemblyInfoInputs.cache
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.AssemblyInfo.cs
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.csproj.CoreCompileInputs.cache
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.dll
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\ref\arraycolection.dll
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.pdb
+C:\Users\guiga\Projetos\ams\1ano\semestre2\Estrutura\FOREACHCOMMAND\arraycolection\obj\Debug\net5.0\arraycolection.genruntimeconfig.cache
